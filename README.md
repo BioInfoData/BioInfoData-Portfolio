@@ -36,3 +36,11 @@ The current tool provide a site specific pileup with the following advantages co
 * Allow **filtering of the results** based on coverate, muation rate or number of mutated reads.
 
 * Allow **pileup only for list of sites** provided as input file to the tool.
+
+
+
+**Language: Python3**
+
+**Required tools: samtools**
+
+**Required moduls: pysam, pandas, biopython**
