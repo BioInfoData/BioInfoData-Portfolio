@@ -59,5 +59,7 @@ This tool execpts BAM file and a list of sites in bed6 format and generates mean
 ![](https://user-images.githubusercontent.com/93220699/183314555-91a9ed91-6851-4669-932c-b326e4023dc1.png)
 
 
+## Analysis of gene expression pattern in 2D space
 
+Demonstration of data analysis 2d gene expression data in order to find "hotspots" of expression in mouse brain sections. The data used for the analysis was smFISH data and the analysis was part of [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7519336/pdf/pnas.201913658.pdf) publication.
 
