@@ -21,4 +21,18 @@ The annotation includes:
 
 
 
+# [Strand specific pileup for RNAseq](https://github.com/BioInfoData/pileup_stranded)
 
+A common task in bioinformatics is pileup of alignment files for detecting muation, inserstion or deletions sites.
+
+The current tool provide a site specific pileup with the following advantages comparing to other tools:
+
+* Using **mutliproccesing** to decreas the time of analysis.
+
+* Allow **strand specific pileup** for RNA-seq data.
+
+* Allow **selection of specific nucleotides** to include in the analysis in order to decres the runing time and size of output files.
+
+* Allow **filtering of the results** based on coverate, muation rate or number of mutated reads.
+
+* Allow **pileup only for list of sites** provided as input file to the tool.
