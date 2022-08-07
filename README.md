@@ -41,7 +41,7 @@ The annotation includes:
 
 **Required moduls: pybedtools, pandas, numpy, biopython, matplotlib**
 
-![](https://user-images.githubusercontent.com/93220699/183313469-d1b6086c-27c0-41ba-ba84-b2b26ffc9a65.png)
+<img src="https://user-images.githubusercontent.com/93220699/183313469-d1b6086c-27c0-41ba-ba84-b2b26ffc9a65.png" alt="drawing" width="500"/>
 
 
 
@@ -56,8 +56,7 @@ This tool execpts BAM file and a list of sites in bed6 format and generates mean
 
 **Required moduls: pysam, pandas, numpy, matplotlib**
 
-![](https://user-images.githubusercontent.com/93220699/183314555-91a9ed91-6851-4669-932c-b326e4023dc1.png)
-
+<img src="https://user-images.githubusercontent.com/93220699/183314555-91a9ed91-6851-4669-932c-b326e4023dc1.png" alt="drawing" width="500"/>
 
 ## [Analysis of gene expression pattern in 2D space](https://github.com/BioInfoData/find_hotspot)
 
