@@ -1,6 +1,6 @@
 
 
-## [Single site annotation](https://github.com/BioInfoData/single_site_annotation)
+# [Single site annotation](https://github.com/BioInfoData/single_site_annotation)
 
 Provides full annotation for list of sites in a single base resolution.
 
@@ -13,7 +13,7 @@ The annotation includes:
 
 **Language: Python3**
 
-**Tools: bedtools**
+**Required tools: bedtools**
 
 **Required moduls: pybedtools, pandas, numpy, biopython, matplotlib**
 
