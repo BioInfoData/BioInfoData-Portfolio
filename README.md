@@ -60,6 +60,8 @@ This tool execpts BAM file and a list of sites in bed6 format and generates mean
 
 ## [Analysis of gene expression pattern in 2D space](https://github.com/BioInfoData/find_hotspot)
 
-Demonstration of spacial data analysis in order to find "hotspots" of expression in mouse brain sections. The data used for the analysis was smFISH experiment results and the analysis was part of [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7519336/pdf/pnas.201913658.pdf) publication.
+Demonstration of spacial data analysis in order to find "hotspots" of expression in mouse brain sections. 
+
+The data used for the analysis was smFISH experiment results and the analysis was part of [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7519336/pdf/pnas.201913658.pdf) publication.
 
 <img src="https://user-images.githubusercontent.com/93220699/183315614-81488be7-6a6f-4d4a-adab-4b3c0c6904d2.png" alt="drawing" width="500"/>
