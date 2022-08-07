@@ -1,6 +1,6 @@
 
 
-# [Single site annotation](https://github.com/BioInfoData/single_site_annotation)
+## [Single site annotation](https://github.com/BioInfoData/single_site_annotation)
 
 Provides full annotation for list of sites in a single base resolution.
 
@@ -21,7 +21,7 @@ The annotation includes:
 
 
 
-# [Strand specific pileup for RNAseq](https://github.com/BioInfoData/pileup_stranded)
+## [Strand specific pileup for RNAseq](https://github.com/BioInfoData/pileup_stranded)
 
 A common task in bioinformatics is pileup of alignment files for detecting muation, inserstion or deletions sites.
 
