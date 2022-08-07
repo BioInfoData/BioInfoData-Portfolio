@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+
+
+## [Single site annotation](https://github.com/BioInfoData/single_site_annotation)
+
+Provides full annotation for list of sites in a single base resolution.
+
+The annotation includes: 
+
+* General annotation: Ensembl gene ID; biotype; gene symbol; HID; Ensembl trenscript ID
+* Position in the transcript: exon/ intron ;  5UTR/ 3UTR/ CDS;  Posotion of the site within the transcript relative to TSS
+* Translation information (for siteses within CDS): coding frame of the site; codon sequence; amino acid name
+* Metagene plots of all input sites 
+
+![](https://user-images.githubusercontent.com/93220699/182106199-75b4fe84-9eb5-4d56-8ff4-995a27b7bc03.png)
 
 https://www.youtube.com/watch?v=6NXLGP65S2Q
 
