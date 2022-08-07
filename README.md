@@ -50,12 +50,14 @@ The annotation includes:
 
 This tool execpts BAM file and a list of sites in bed6 format and generates mean coverage plot around the sites.
 
-![](https://user-images.githubusercontent.com/93220699/183314555-91a9ed91-6851-4669-932c-b326e4023dc1.png)
-
 **Language: Python3**
 
 **Required tools: samtools**
 
 **Required moduls: pysam, pandas, numpy, matplotlib**
+
+![](https://user-images.githubusercontent.com/93220699/183314555-91a9ed91-6851-4669-932c-b326e4023dc1.png)
+
+
 
 
