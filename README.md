@@ -77,6 +77,12 @@ The data used for the analysis was smFISH experiment results and the analysis wa
 
 ## [Data Analysis: Find micro-clusters in 2D gene expression data](https://github.com/BioInfoData/find_clusters) 
 
+The goal of this analysis is to test whether there is micro organization of cells in a way that neighboring nerunal cells will be more likely to express same IEG gene following stimulation resluting with "micro-clusters". 
+
+At the fisrt step of the analysis we calculate the probability of a cells being an IEG positive cell as a function of its distance from other IEG positive cell.
+
+In the second step of analysis we will try to find “cluster” of positive cells. We will start from a positive cell recursively add cells to this cluster as long as they are located less then 20 micron and that at least 80% of the cells in the environment are positive.
+
 <img src="https://user-images.githubusercontent.com/93220699/183494133-c8bcee9d-347e-4b27-9d7a-87e753236e45.png" alt="drawing" width="800"/>
 
 
