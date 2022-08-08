@@ -61,18 +61,6 @@ This tool execpts BAM file and a list of sites in bed6 format and generates mean
 
 <img src="https://user-images.githubusercontent.com/93220699/183314555-91a9ed91-6851-4669-932c-b326e4023dc1.png" alt="drawing" width="500"/>
 
-## [Data Analysis: Analysis of gene expression pattern in 2D space](https://github.com/BioInfoData/find_hotspot)
-
-Demonstration of spacial data analysis in order to find "hotspots" of expression in mouse brain sections. 
-
-The data used for the analysis was smFISH experiment results and the analysis was part of [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7519336/pdf/pnas.201913658.pdf) publication.
-
-
-**Language: R**
-
-**Libraries: ggplot2, mgcv, dplyr, permute**
-
-<img src="https://user-images.githubusercontent.com/93220699/183315614-81488be7-6a6f-4d4a-adab-4b3c0c6904d2.png" alt="drawing" width="500"/>
 
 
 ## [Data Analysis: Find micro-clusters in 2D gene expression data](https://github.com/BioInfoData/find_clusters) 
@@ -83,10 +71,26 @@ At the fisrt step of the analysis we calculate the probability of a cells being 
 
 In the second step of analysis we will try to find “cluster” of positive cells. We will start from a positive cell recursively add cells to this cluster as long as they are located less then 20 micron and that at least 80% of the cells in the environment are positive.
 
+The data used for the analysis is smFISH experiment results and the analysis was part of [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7519336/pdf/pnas.201913658.pdf) publication.
+
 **Language: R**
 
-**Libraries: ggplot2, raster, RColorBrewer, **
+**Libraries: ggplot2, raster, RColorBrewer**
 
 <img src="https://user-images.githubusercontent.com/93220699/183497766-8958b975-156f-4520-9daa-57fc1c867e08.png" alt="drawing" width="800"/>
 
+
+
+## [Data Analysis: Analysis of gene expression pattern in 2D space](https://github.com/BioInfoData/find_hotspot)
+
+Demonstration of spacial data analysis in order to find "hotspots" of expression in mouse brain sections. 
+
+The data used for the analysis is smFISH experiment results and the analysis was part of [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7519336/pdf/pnas.201913658.pdf) publication.
+
+
+**Language: R**
+
+**Libraries: ggplot2, mgcv, dplyr, permute**
+
+<img src="https://user-images.githubusercontent.com/93220699/183315614-81488be7-6a6f-4d4a-adab-4b3c0c6904d2.png" alt="drawing" width="500"/>
 
