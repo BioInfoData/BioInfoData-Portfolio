@@ -70,7 +70,7 @@ The data used for the analysis was smFISH experiment results and the analysis wa
 
 **Language: R**
 
-**Required libraries: ggplot2, mgcv, dplyr, permute**
+**Libraries: ggplot2, mgcv, dplyr, permute**
 
 <img src="https://user-images.githubusercontent.com/93220699/183315614-81488be7-6a6f-4d4a-adab-4b3c0c6904d2.png" alt="drawing" width="500"/>
 
@@ -82,6 +82,10 @@ The goal of this analysis is to test whether there is micro organization of cell
 At the fisrt step of the analysis we calculate the probability of a cells being an IEG positive cell as a function of its distance from other IEG positive cell.
 
 In the second step of analysis we will try to find “cluster” of positive cells. We will start from a positive cell recursively add cells to this cluster as long as they are located less then 20 micron and that at least 80% of the cells in the environment are positive.
+
+**Language: R**
+
+**Libraries: ggplot2, raster, RColorBrewer, **
 
 <img src="https://user-images.githubusercontent.com/93220699/183494133-c8bcee9d-347e-4b27-9d7a-87e753236e45.png" alt="drawing" width="800"/>
 
