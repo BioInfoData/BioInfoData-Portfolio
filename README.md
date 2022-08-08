@@ -1,6 +1,13 @@
 # BioInfoData Portfolio
 
-## [NGS Tool: Strand specific pileup for RNAseq](https://github.com/BioInfoData/pileup_stranded)
+<h3><a href="#pileup">NGS Tool: Strand specific pileup for RNAseq (Python)</a></h3>
+<h3><a href="#anot">NGS Tool: Single site annotation (Python)</a></h3>
+<h3><a href="#pileup">NGS Tool: Strand specific pileup for RNAseq (Python)</a></h3>
+<h3><a href="#pileup">NGS Tool: Strand specific pileup for RNAseq (Python)</a></h3>
+
+<p id = "pileup"></p>
+
+  ## [NGS Tool: Strand specific pileup for RNAseq](https://github.com/BioInfoData/pileup_stranded)
 
 A common task in bioinformatics is pileup of alignment files for detecting muation, inserstion or deletions sites.
 
@@ -16,13 +23,13 @@ The current tool provide a site specific pileup with the following advantages co
 
 * Allow **pileup only for list of sites** provided as input file to the tool.
 
-
-
 **Language: Python3**
 
 **Required tools: samtools**
 
 **Required moduls: pysam, pandas, biopython**
+
+<p id = "anot"></p>
 
 ## [NGS Tool: Single site annotation](https://github.com/BioInfoData/single_site_annotation)
 
