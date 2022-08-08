@@ -87,6 +87,6 @@ In the second step of analysis we will try to find “cluster” of positive cel
 
 **Libraries: ggplot2, raster, RColorBrewer, **
 
-<img src="https://user-images.githubusercontent.com/93220699/183494133-c8bcee9d-347e-4b27-9d7a-87e753236e45.png" alt="drawing" width="800"/>
+<img src="https://user-images.githubusercontent.com/93220699/183497766-8958b975-156f-4520-9daa-57fc1c867e08.png" alt="drawing" width="800"/>
 
 
