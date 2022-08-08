@@ -1,6 +1,6 @@
 # BioInfoData Portfolio
 
-## [Strand specific pileup for RNAseq](https://github.com/BioInfoData/pileup_stranded)
+## [NGS Tool: Strand specific pileup for RNAseq](https://github.com/BioInfoData/pileup_stranded)
 
 A common task in bioinformatics is pileup of alignment files for detecting muation, inserstion or deletions sites.
 
@@ -24,7 +24,7 @@ The current tool provide a site specific pileup with the following advantages co
 
 **Required moduls: pysam, pandas, biopython**
 
-## [Single site annotation](https://github.com/BioInfoData/single_site_annotation)
+## [NGS Tool: Single site annotation](https://github.com/BioInfoData/single_site_annotation)
 
 Provides full annotation for list of sites in a single base resolution.
 
@@ -49,7 +49,7 @@ The annotation includes:
 
 
 
-## [Mean coverage plot for list of sites](https://github.com/BioInfoData/metasite_coverage)
+## [NGS Tool: Mean coverage plot for list of sites](https://github.com/BioInfoData/metasite_coverage)
 
 This tool execpts BAM file and a list of sites in bed6 format and generates mean coverage plot around the sites.
 
@@ -61,7 +61,7 @@ This tool execpts BAM file and a list of sites in bed6 format and generates mean
 
 <img src="https://user-images.githubusercontent.com/93220699/183314555-91a9ed91-6851-4669-932c-b326e4023dc1.png" alt="drawing" width="500"/>
 
-## [Analysis of gene expression pattern in 2D space](https://github.com/BioInfoData/find_hotspot)
+## [Data Analysis: Analysis of gene expression pattern in 2D space](https://github.com/BioInfoData/find_hotspot)
 
 Demonstration of spacial data analysis in order to find "hotspots" of expression in mouse brain sections. 
 
