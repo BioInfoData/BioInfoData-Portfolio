@@ -10,7 +10,7 @@
 
 <p id = "pileup"></p>
 
- ##[NGS Tool: Strand specific pileup for RNAseq](https://github.com/BioInfoData/pileup_stranded)
+## [NGS Tool: Strand specific pileup for RNAseq](https://github.com/BioInfoData/pileup_stranded)
 
 A common task in bioinformatics is pileup of alignment files for detecting muation, inserstion or deletions sites.
 
