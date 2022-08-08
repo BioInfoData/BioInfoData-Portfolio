@@ -26,6 +26,8 @@ The current tool provide a site specific pileup with the following advantages co
 
 * Allow **pileup only for list of sites** provided as input file to the tool.
 
+[View in Github](https://github.com/BioInfoData/pileup_stranded)
+
 **Language: Python3**
 
 **Required tools: samtools**
