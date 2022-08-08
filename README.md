@@ -6,7 +6,7 @@
 <h3><a href="#cluster">Data Analysis: Find micro-clusters in 2D gene expression data (R)</a></h3>
 <h3><a href="#spots">Data Analysis: Analysis of gene expression pattern in 2D space (R)</a></h3>
 
-<h2>Overview</h2>
+<h1>Overview</h1>
 
 <p id = "pileup"></p>
 
