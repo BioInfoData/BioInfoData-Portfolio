@@ -26,13 +26,13 @@ The current tool provide a site specific pileup with the following advantages co
 
 * Allow **pileup only for list of sites** provided as input file to the tool.
 
-[View in Github](https://github.com/BioInfoData/pileup_stranded)
-
 **Language: Python3**
 
 **Required tools: samtools**
 
 **Required moduls: pysam, pandas, biopython**
+
+[View in Github](https://github.com/BioInfoData/pileup_stranded)
 
 <p id = "anot"></p>
 
@@ -56,6 +56,8 @@ The annotation includes:
 
 **Required moduls: pybedtools, pandas, numpy, biopython, matplotlib**
 
+[View in Github](https://github.com/BioInfoData/single_site_annotation)
+
 <img src="https://user-images.githubusercontent.com/93220699/183313469-d1b6086c-27c0-41ba-ba84-b2b26ffc9a65.png" alt="drawing" width="500"/>
 
 <p id = "coverage"></p>
@@ -69,6 +71,8 @@ This tool execpts BAM file and a list of sites in bed6 format and generates mean
 **Required tools: samtools**
 
 **Required moduls: pysam, pandas, numpy, matplotlib**
+
+[View in Github](https://github.com/BioInfoData/metasite_coverage)
 
 <img src="https://user-images.githubusercontent.com/93220699/183314555-91a9ed91-6851-4669-932c-b326e4023dc1.png" alt="drawing" width="500"/>
 
@@ -88,6 +92,8 @@ The data used for the analysis is smFISH experiment results and the analysis was
 
 **Libraries: ggplot2, raster, RColorBrewer**
 
+[View in Github](https://github.com/BioInfoData/find_clusters) 
+
 <img src="https://user-images.githubusercontent.com/93220699/183497766-8958b975-156f-4520-9daa-57fc1c867e08.png" alt="drawing" width="800"/>
 
 <p id = "spots"></p>
@@ -102,6 +108,8 @@ The data used for the analysis is smFISH experiment results and the analysis was
 **Language: R**
 
 **Libraries: ggplot2, mgcv, dplyr, permute**
+
+[View in Github](https://github.com/BioInfoData/find_hotspot)
 
 <img src="https://user-images.githubusercontent.com/93220699/183315614-81488be7-6a6f-4d4a-adab-4b3c0c6904d2.png" alt="drawing" width="500"/>
 
