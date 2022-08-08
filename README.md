@@ -2,8 +2,11 @@
 
 <h3><a href="#pileup">NGS Tool: Strand specific pileup for RNAseq (Python)</a></h3>
 <h3><a href="#anot">NGS Tool: Single site annotation (Python)</a></h3>
-<h3><a href="#pileup">NGS Tool: Strand specific pileup for RNAseq (Python)</a></h3>
-<h3><a href="#pileup">NGS Tool: Strand specific pileup for RNAseq (Python)</a></h3>
+<h3><a href="#coverage">NGS Tool: Mean coverage plot for list of sites (Python)</a></h3>
+<h3><a href="#cluster">Data Analysis: Find micro-clusters in 2D gene expression data (R)</a></h3>
+<h3><a href="#spots">Data Analysis: Analysis of gene expression pattern in 2D space (R)</a></h3>
+
+<h2>Overview</h2>
 
 <p id = "pileup"></p>
 
@@ -53,8 +56,7 @@ The annotation includes:
 
 <img src="https://user-images.githubusercontent.com/93220699/183313469-d1b6086c-27c0-41ba-ba84-b2b26ffc9a65.png" alt="drawing" width="500"/>
 
-
-
+<p id = "coverage"></p>
 
 ## [NGS Tool: Mean coverage plot for list of sites](https://github.com/BioInfoData/metasite_coverage)
 
@@ -68,7 +70,7 @@ This tool execpts BAM file and a list of sites in bed6 format and generates mean
 
 <img src="https://user-images.githubusercontent.com/93220699/183314555-91a9ed91-6851-4669-932c-b326e4023dc1.png" alt="drawing" width="500"/>
 
-
+<p id="cluster"></p>
 
 ## [Data Analysis: Find micro-clusters in 2D gene expression data](https://github.com/BioInfoData/find_clusters) 
 
@@ -86,7 +88,7 @@ The data used for the analysis is smFISH experiment results and the analysis was
 
 <img src="https://user-images.githubusercontent.com/93220699/183497766-8958b975-156f-4520-9daa-57fc1c867e08.png" alt="drawing" width="800"/>
 
-
+<p id = "spots"></p>
 
 ## [Data Analysis: Analysis of gene expression pattern in 2D space](https://github.com/BioInfoData/find_hotspot)
 
