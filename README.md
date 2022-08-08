@@ -77,7 +77,6 @@ The data used for the analysis was smFISH experiment results and the analysis wa
 
 ## [Data Analysis: Find micro-clusters in 2D gene expression data](https://github.com/BioInfoData/find_clusters) 
 
-<img src="https://user-images.githubusercontent.com/93220699/183492318-3f0d0655-c9f5-4dca-a946-18b9ddae0652.png" alt="drawing" width="300"/>
-
+<img src="https://user-images.githubusercontent.com/93220699/183494133-c8bcee9d-347e-4b27-9d7a-87e753236e45.png" alt="drawing" width="400"/>
 
 
