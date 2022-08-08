@@ -73,3 +73,7 @@ The data used for the analysis was smFISH experiment results and the analysis wa
 **Required libraries: ggplot2, mgcv, dplyr, permute**
 
 <img src="https://user-images.githubusercontent.com/93220699/183315614-81488be7-6a6f-4d4a-adab-4b3c0c6904d2.png" alt="drawing" width="500"/>
+
+
+## [Data Analysis: Find micro-clusters in 2D gene expression data](https://github.com/BioInfoData/find_clusters) 
+
