@@ -90,7 +90,7 @@ The data used for the analysis is smFISH experiment results and the analysis was
 
 **Language: R**
 
-**Libraries: ggplot2, raster, RColorBrewer**
+**Libraries: ggplot2, raster**
 
 [View on GitHub](https://github.com/BioInfoData/find_clusters) 
 
