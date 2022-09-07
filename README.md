@@ -19,6 +19,8 @@ A website that summarizes the most useful tools for bioinformatic analysis of Ne
 
 **Required moduls: Django, Pillow**
 
+ [Go to website](http://bioinfodata.eu.pythonanywhere.com/)
+
 <img src="https://user-images.githubusercontent.com/93220699/188962869-097f71c2-ec9d-4a3f-8cce-864d786073bd.png" alt="drawing" width="800"/>
 
 <p id = "pileup"></p>
