@@ -1,6 +1,6 @@
 # BioInfoData Portfolio
 
-<h3><a href="#web">Web development: NGS tools review for beginners (Python - Django, html, css)</a></h3>
+<h3><a href="#web">Web Development: NGS tools review for beginners (Python - Django, html, css)</a></h3>
 <h3><a href="#pileup">NGS Tool: Strand specific pileup for RNAseq (Python)</a></h3>
 <h3><a href="#anot">NGS Tool: Single site annotation (Python)</a></h3>
 <h3><a href="#coverage">NGS Tool: Mean coverage plot for list of sites (Python)</a></h3>
@@ -8,6 +8,20 @@
 <h3><a href="#spots">Data Analysis: Analysis of gene expression pattern in 2D space (R)</a></h3>
 
 <h1>Overview</h1>
+
+<p id = "web"></p>
+
+## [Web Development: NGS tools review for beginners](http://bioinfodata.eu.pythonanywhere.com/)
+
+A website that summarizes the most useful tools for bioinformatic analysis of Next Generation Sequencing (NGS).
+
+**Language: Python3, Html, CSS**
+
+**Required tools: samtools**
+
+**Required moduls: pysam, pandas, biopython**
+
+<img src="https://user-images.githubusercontent.com/93220699/188962869-097f71c2-ec9d-4a3f-8cce-864d786073bd.png" alt="drawing" width="800"/>
 
 <p id = "pileup"></p>
 
