@@ -1,9 +1,9 @@
 # BioInfoData Portfolio
 
 <h3><a href="#web">Web Development: NGS tools review for beginners (Python - Django, html, css)</a></h3>
-<h3><a href="#pileup">NGS Tool: Strand specific pileup for RNAseq (Python)</a></h3>
-<h3><a href="#anot">NGS Tool: Single site annotation (Python)</a></h3>
-<h3><a href="#coverage">NGS Tool: Mean coverage plot for list of sites (Python)</a></h3>
+<h3><a href="#pileup">NGS Tool Development: Strand specific pileup for RNAseq (Python)</a></h3>
+<h3><a href="#anot">NGS Tool Development: Single site annotation (Python)</a></h3>
+<h3><a href="#coverage">NGS Tool Development: Mean coverage plot for list of sites (Python)</a></h3>
 <h3><a href="#cluster">Data Analysis: Find micro-clusters in 2D gene expression data (R)</a></h3>
 <h3><a href="#spots">Data Analysis: Analysis of gene expression pattern in 2D space (R)</a></h3>
 
@@ -17,15 +17,13 @@ A website that summarizes the most useful tools for bioinformatic analysis of Ne
 
 **Language: Python3, Html, CSS**
 
-**Required tools: samtools**
-
-**Required moduls: pysam, pandas, biopython**
+**Required moduls: Django, Pillow**
 
 <img src="https://user-images.githubusercontent.com/93220699/188962869-097f71c2-ec9d-4a3f-8cce-864d786073bd.png" alt="drawing" width="800"/>
 
 <p id = "pileup"></p>
 
-## [NGS Tool: Strand specific pileup for RNAseq](https://github.com/BioInfoData/pileup_stranded)
+## [NGS Tool Development: Strand specific pileup for RNAseq](https://github.com/BioInfoData/pileup_stranded)
 
 A common task in bioinformatics is pileup of alignment files for detecting muation, inserstion or deletions sites.
 
@@ -51,7 +49,7 @@ The current tool provide a site specific pileup with the following advantages co
 
 <p id = "anot"></p>
 
-## [NGS Tool: Single site annotation](https://github.com/BioInfoData/single_site_annotation)
+## [NGS Tool Development: Single site annotation](https://github.com/BioInfoData/single_site_annotation)
 
 Provides full annotation for list of sites in a single base resolution.
 
@@ -77,7 +75,7 @@ The annotation includes:
 
 <p id = "coverage"></p>
 
-## [NGS Tool: Mean coverage plot for list of sites](https://github.com/BioInfoData/metasite_coverage)
+## [NGS Tool Development: Mean coverage plot for list of sites](https://github.com/BioInfoData/metasite_coverage)
 
 This tool execpts BAM file and a list of sites in bed6 format and generates mean coverage plot around the sites.
 
